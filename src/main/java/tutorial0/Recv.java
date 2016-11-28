@@ -1,3 +1,5 @@
+package tutorial0;
+
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
